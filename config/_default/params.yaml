@@ -87,7 +87,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy
+    provider: Bonniface
     algolia:
       app_id: ''
       api_key: ''
