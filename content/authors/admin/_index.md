@@ -68,6 +68,6 @@ email: 'kalongboniface97@gmail.com'
 highlight_name: true
 ---
 
-TO me, I like the chance to learn more about a topic that has a big impact on how we live our daily lives. I have a background in statistics and mathematics. I've learned web programming techniques as a final-year student, and  even launched a blog.  I was aware that there was something more I wanted to do, like construct anything in context to Ghana or Africa. I then reflected on my coursework, what I had learned so far, and which course I enjoyed the most. It was unquestionably "machine learning, model-related courses(Learn algebra, Logistic Regression), and statistical computing." 
+To me, I like the chance to learn more about a topic that has a big impact on how we live our daily lives. I have a background in statistics and mathematics. I've learned web programming techniques as a final-year student, and  even launched a blog.  I was aware that there was something more I wanted to do, like construct anything in context to Ghana or Africa. I then reflected on my coursework, what I had learned so far, and which course I enjoyed the most. It was unquestionably "machine learning, model-related courses(Learn algebra, Logistic Regression), and statistical computing." 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
