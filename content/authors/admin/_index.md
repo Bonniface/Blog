@@ -55,7 +55,7 @@ social:
     link: https://www.linkedin.com/in/kalong-boniface-88ba07183/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `data/resume/Kalong Boniface.pdf`, enable `ai` icons in `params.toml`,
+# To use: copy your resume to `data/resume/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
