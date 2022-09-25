@@ -6,7 +6,7 @@ title: Kalong Boniface
 superuser: true
 
 # Role/position/tagline
-role: B Sc. Actuarial Science | Graduate Assistant
+role: Data Scientist|Graduate Assistant| Web Dev.
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -30,7 +30,7 @@ education:
       year: 2022
     - course: WACE in Business Studies
       institution: T.I Ahmaddiya Senior High
-      year: 2009
+      year: 20016
     
 
 # Social/Academic Networking
@@ -57,9 +57,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'kalongboniface97@gmail.com'
@@ -68,8 +68,6 @@ email: 'kalongboniface97@gmail.com'
 highlight_name: true
 ---
 
-TO me, I like the chance to learn more about a topic that has a big impact on how we live our daily lives. I have a background in statistics and mathematics. I've learned web programming techniques as a final-year student, and  even launched a blog. Although studying actuarial science is a fantastic way to combine several academic fields into your job, you probably already know that in order to become an actuary, you must study for additional examinations, which need countless hours of your own time to prepare for. It is awful.
-
-It is terrible because (a) I wasn't learning anything, and (b) I didn't feel proud of anything I had produced. I was aware that there was something more I wanted to do, like construct anything in context to Ghana or Africa. I then reflected on my coursework, what I had learned so far, and which course I enjoyed the most. It was unquestionably "machine learning, model-related courses(Learn algebra, Logistic Regression), and statistical computing." 
+TO me, I like the chance to learn more about a topic that has a big impact on how we live our daily lives. I have a background in statistics and mathematics. I've learned web programming techniques as a final-year student, and  even launched a blog.  I was aware that there was something more I wanted to do, like construct anything in context to Ghana or Africa. I then reflected on my coursework, what I had learned so far, and which course I enjoyed the most. It was unquestionably "machine learning, model-related courses(Learn algebra, Logistic Regression), and statistical computing." 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
