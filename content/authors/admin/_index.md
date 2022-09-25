@@ -72,4 +72,4 @@ TO me, I like the chance to learn more about a topic that has a big impact on ho
 
 It is terrible because (a) I wasn't learning anything, and (b) I didn't feel proud of anything I had produced. I was aware that there was something more I wanted to do, like construct anything in context to Ghana or Africa. I then reflected on my coursework, what I had learned so far, and which course I enjoyed the most. It was unquestionably "machine learning, model-related courses(Learn algebra, Logistic Regression), and statistical computing." 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
