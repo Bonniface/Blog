@@ -4,7 +4,7 @@ editor_options:
     wrap: sentence
 ---
 
-
++++
 widget = "blank" 
 headless = true   # This file represents a page section.
 active = true     # Activate this widget? true/false
@@ -50,7 +50,7 @@ css_style = ""
 
 # CSS class.
 css_class = "" 
-
++++
 ##            :wave: Welcome to the **KALONG"S** Personal Website
 
 I've produced a variety of demos for myself in that regard.
